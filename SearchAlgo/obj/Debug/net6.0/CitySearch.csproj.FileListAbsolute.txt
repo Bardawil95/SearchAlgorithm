@@ -1,0 +1,15 @@
+C:\Users\Bardawil\Documents\C#Interview\SearchAlgo\SearchAlgo\obj\Debug\net6.0\CitySearch.csproj.AssemblyReference.cache
+C:\Users\Bardawil\Documents\C#Interview\SearchAlgo\SearchAlgo\obj\Debug\net6.0\CitySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bardawil\Documents\C#Interview\SearchAlgo\SearchAlgo\obj\Debug\net6.0\CitySearch.AssemblyInfoInputs.cache
+C:\Users\Bardawil\Documents\C#Interview\SearchAlgo\SearchAlgo\obj\Debug\net6.0\CitySearch.AssemblyInfo.cs
+C:\Users\Bardawil\Documents\C#Interview\SearchAlgo\SearchAlgo\obj\Debug\net6.0\CitySearch.csproj.CoreCompileInputs.cache
+C:\Users\Bardawil\Documents\C#Interview\SearchAlgo\SearchAlgo\bin\Debug\net6.0\CitySearch.exe
+C:\Users\Bardawil\Documents\C#Interview\SearchAlgo\SearchAlgo\bin\Debug\net6.0\CitySearch.deps.json
+C:\Users\Bardawil\Documents\C#Interview\SearchAlgo\SearchAlgo\bin\Debug\net6.0\CitySearch.runtimeconfig.json
+C:\Users\Bardawil\Documents\C#Interview\SearchAlgo\SearchAlgo\bin\Debug\net6.0\CitySearch.dll
+C:\Users\Bardawil\Documents\C#Interview\SearchAlgo\SearchAlgo\bin\Debug\net6.0\CitySearch.pdb
+C:\Users\Bardawil\Documents\C#Interview\SearchAlgo\SearchAlgo\obj\Debug\net6.0\CitySearch.dll
+C:\Users\Bardawil\Documents\C#Interview\SearchAlgo\SearchAlgo\obj\Debug\net6.0\refint\CitySearch.dll
+C:\Users\Bardawil\Documents\C#Interview\SearchAlgo\SearchAlgo\obj\Debug\net6.0\CitySearch.pdb
+C:\Users\Bardawil\Documents\C#Interview\SearchAlgo\SearchAlgo\obj\Debug\net6.0\CitySearch.genruntimeconfig.cache
+C:\Users\Bardawil\Documents\C#Interview\SearchAlgo\SearchAlgo\obj\Debug\net6.0\ref\CitySearch.dll

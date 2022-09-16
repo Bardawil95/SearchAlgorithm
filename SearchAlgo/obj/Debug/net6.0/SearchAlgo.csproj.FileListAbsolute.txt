@@ -1,0 +1,15 @@
+C:\Users\Bardawil\Documents\C#Interview\SearchAlgo\SearchAlgo\obj\Debug\net6.0\SearchAlgo.csproj.AssemblyReference.cache
+C:\Users\Bardawil\Documents\C#Interview\SearchAlgo\SearchAlgo\obj\Debug\net6.0\SearchAlgo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bardawil\Documents\C#Interview\SearchAlgo\SearchAlgo\obj\Debug\net6.0\SearchAlgo.AssemblyInfoInputs.cache
+C:\Users\Bardawil\Documents\C#Interview\SearchAlgo\SearchAlgo\obj\Debug\net6.0\SearchAlgo.AssemblyInfo.cs
+C:\Users\Bardawil\Documents\C#Interview\SearchAlgo\SearchAlgo\obj\Debug\net6.0\SearchAlgo.csproj.CoreCompileInputs.cache
+C:\Users\Bardawil\Documents\C#Interview\SearchAlgo\SearchAlgo\bin\Debug\net6.0\SearchAlgo.exe
+C:\Users\Bardawil\Documents\C#Interview\SearchAlgo\SearchAlgo\bin\Debug\net6.0\SearchAlgo.deps.json
+C:\Users\Bardawil\Documents\C#Interview\SearchAlgo\SearchAlgo\bin\Debug\net6.0\SearchAlgo.runtimeconfig.json
+C:\Users\Bardawil\Documents\C#Interview\SearchAlgo\SearchAlgo\bin\Debug\net6.0\SearchAlgo.dll
+C:\Users\Bardawil\Documents\C#Interview\SearchAlgo\SearchAlgo\bin\Debug\net6.0\SearchAlgo.pdb
+C:\Users\Bardawil\Documents\C#Interview\SearchAlgo\SearchAlgo\obj\Debug\net6.0\SearchAlgo.dll
+C:\Users\Bardawil\Documents\C#Interview\SearchAlgo\SearchAlgo\obj\Debug\net6.0\refint\SearchAlgo.dll
+C:\Users\Bardawil\Documents\C#Interview\SearchAlgo\SearchAlgo\obj\Debug\net6.0\SearchAlgo.pdb
+C:\Users\Bardawil\Documents\C#Interview\SearchAlgo\SearchAlgo\obj\Debug\net6.0\SearchAlgo.genruntimeconfig.cache
+C:\Users\Bardawil\Documents\C#Interview\SearchAlgo\SearchAlgo\obj\Debug\net6.0\ref\SearchAlgo.dll
